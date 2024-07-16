@@ -1,0 +1,49 @@
+[
+    {
+        "name": "iphone",
+        "price": 1000,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "iphone10",
+        "price": 2000,
+        "featured": false,
+        "company": "apple"
+    },
+    {
+        "name": "watch",
+        "price": 500,
+        "company": "apple"
+    },
+    {
+        "name": "s20",
+        "price": 2000,
+        "featured": true,
+        "company": "samsung"
+    },
+    {
+        "name": "s23",
+        "price": 999,
+        "featured": true,
+        "company": "samsung"
+    },
+    {
+        "name": "iphone13",
+        "price": 1000,
+        "featured": false,
+        "company": "apple"
+    },
+    {
+        "name": "mi note10",
+        "price": 1000,
+        "featured": false,
+        "company": "mi"
+    },
+    {
+        "name": "s9",
+        "price": 700,
+        "featured": false,
+        "company": "samsung"
+    }
+]
